@@ -58,6 +58,15 @@ Step 7: Finalize and Export
 
 
 # Output
+<img width="1002" height="340" alt="image" src="https://github.com/user-attachments/assets/e37d82cf-77ce-4c97-b1f9-5afc5c2a51db" />
+<img width="895" height="582" alt="image" src="https://github.com/user-attachments/assets/864241a8-1666-4350-9fa2-628b13e45de8" />
+<img width="919" height="609" alt="image" src="https://github.com/user-attachments/assets/a5e02f97-e483-4179-a538-c284f7efa764" />
+
+
+
 
 
 # Result
+Thus, this document provides a comprehensive report on generative AI, covering its foundational concepts, key architectures, applications, the impact of scaling on large language models (LLMs), and an explanation of how LLMs are built.
+
+
